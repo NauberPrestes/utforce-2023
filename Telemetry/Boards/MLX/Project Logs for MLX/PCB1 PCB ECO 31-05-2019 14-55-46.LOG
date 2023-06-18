@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=MLX1 Old Footprint=Shield_MLX New Footprint=Shield_MLX-V
+Change Component Comment : Designator=MLX1 Old Comment=Shield_MLX New Comment=Shield_MLX-V
+Added Member To Class: ClassName=Schematicmlx Member=Component MLX1 Shield_MLX-V

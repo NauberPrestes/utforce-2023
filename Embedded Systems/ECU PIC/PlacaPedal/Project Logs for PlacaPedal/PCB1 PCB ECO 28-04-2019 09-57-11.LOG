@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=Net*_2 Pin=*-2
+Removed Pin From Net: NetName=Net*_2 Pin=*-7
+Removed Pin From Net: NetName=Net*_2 Pin=*-8
+Removed Pin From Net: NetName=Net*_2 Pin=*-9
+Removed Pin From Net: NetName=Net*_2 Pin=*-10
+Removed Pin From Net: NetName=Net*_2 Pin=*-14
+Removed Pin From Net: NetName=Net*_2 Pin=*-15
+Removed Pin From Net: NetName=Net*_2 Pin=IC?-1
+Change Component Description : Designator=C1 Old Description=1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor New Description=
+1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor
+
+Change Component Description : Designator=C2 Old Description=1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor New Description=
+1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor
+
+Change Component Description : Designator=C3 Old Description=1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor New Description=
+1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor
+
+Change Component Description : Designator=C4 Old Description=1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor New Description=
+1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor
+
+Change Component Description : Designator=C5 Old Description=1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor New Description=
+1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor
+
+Change Component Description : Designator=R1 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R2 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R3 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R4 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R5 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R6 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R8 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R9 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R10 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R11 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R12 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R13 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R14 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Net Name : Old Net Name=Net*_2 New Net Name=GND
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=*-7
+Added Pin To Net: NetName=Net*_2 Pin=*-8
+Added Pin To Net: NetName=Net*_2 Pin=*-9
+Added Pin To Net: NetName=Net*_2 Pin=*-10
+Added Pin To Net: NetName=Net*_2 Pin=*-14
+Added Pin To Net: NetName=Net*_2 Pin=*-15
+Added Pin To Net: NetName=Net*_2 Pin=IC?-1
+Added Net: Name=Net*_2

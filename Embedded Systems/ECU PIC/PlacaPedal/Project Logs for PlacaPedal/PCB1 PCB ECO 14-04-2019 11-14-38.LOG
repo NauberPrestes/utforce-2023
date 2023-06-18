@@ -1,0 +1,10 @@
+Change Component Description : Designator=330R Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Added Component: Designator=*(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net330R_2 Pin=*-1
+Added Pin To Net: NetName=NetLED?_1 Pin=*-2
+Change Net Name : Old Net Name=Net330R_2 New Net Name=Net*_1
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=Net*_2
+Added Member To Class: ClassName=Sheet1 Member=Component * Component_1

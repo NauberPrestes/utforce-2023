@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=X? NewDesignator=12V_D
+Change Component Designator: OldDesignator=X? NewDesignator=CANH
+Change Component Designator: OldDesignator=X? NewDesignator=CANL
+Change Component Designator: OldDesignator=X? NewDesignator=GND
+Change Net Name : Old Net Name=NetX?_1 New Net Name=Net12V_D_1
+Added Member To Class: ClassName=Sheet1 Member=Component *? LED1206
+Added Member To Class: ClassName=Sheet1 Member=Component *? LED1206
+Added Member To Class: ClassName=Sheet1 Member=Component *? LED1206
+Added Member To Class: ClassName=Sheet1 Member=Component * Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component CANH MicroMaTch 4  7-215464-4 / 0-215464-4Drawing Number C-215464DDEController.pdf
+Added Member To Class: ClassName=Sheet1 Member=Component CANL MicroMaTch 4  7-215464-4 / 0-215464-4Drawing Number C-215464DDEController.pdf
+Added Member To Class: ClassName=Sheet1 Member=Component GND MicroMaTch 4  7-215464-4 / 0-215464-4Drawing Number C-215464DDEController.pdf

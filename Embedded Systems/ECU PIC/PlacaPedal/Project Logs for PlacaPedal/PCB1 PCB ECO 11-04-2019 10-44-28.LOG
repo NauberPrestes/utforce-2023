@@ -1,0 +1,12 @@
+Added Component: Designator=*(*SOIC127P1032X265-16N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-4
+Added Pin To Net: NetName=Net*_1 Pin=*-8
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_9 Pin=*-13
+Added Pin To Net: NetName=Net*_9 Pin=*-16
+Added Net: Name=Net*_9
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

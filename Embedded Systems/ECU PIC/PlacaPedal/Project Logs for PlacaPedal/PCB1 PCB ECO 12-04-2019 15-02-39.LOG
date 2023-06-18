@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetCR?_1 Pin=CR?-1
+Removed Pin From Net: NetName=Net330R_2 Pin=CR?-2
+Removed Member From Class: ClassName=Sheet1 Member=CR?
+Added Component: Designator=LED?(LED_LTW-C193TS5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Justin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C191TGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Lite-On"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCR?_1 Pin=LED?-1
+Added Pin To Net: NetName=Net330R_2 Pin=LED?-2
+Change Net Name : Old Net Name=NetCR?_1 New Net Name=NetLED?_1
+Added Member To Class: ClassName=Sheet1 Member=Component LED? Part Number: LTST-C191TGKT

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Net330R_2 Pin=LED1-2
+Removed Member From Class: ClassName=Sheet1 Member=LED1
+Added Component: Designator=CR?(LED_VCCLITE_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "VAOL-S12WR4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "VCCLite"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net330R_2 Pin=CR?-2
+Added Pin To Net: NetName=NetCR?_1 Pin=CR?-1
+Added Pin To Net: NetName=NetCR?_1 Pin=U?-8
+Added Pin To Net: NetName=NetCR?_1 Pin=U?-19
+Added Net: Name=NetCR?_1
+Added Member To Class: ClassName=Sheet1 Member=Component CR? Part Number: VAOL-S12WR4

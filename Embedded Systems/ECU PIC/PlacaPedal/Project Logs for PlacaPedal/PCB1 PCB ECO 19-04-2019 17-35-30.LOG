@@ -1,0 +1,157 @@
+Removed Pin From Net: NetName=Net*_1 Pin=ButtonMCLR-1
+Removed Pin From Net: NetName=NetBelden_2 Pin=C1-1
+Removed Pin From Net: NetName=NetBelden_2 Pin=IC?-3
+Removed Pin From Net: NetName=Net*_2 Pin=R6-2
+Removed Pin From Net: NetName=Net*_1 Pin=Start Button-1
+Removed Member From Class: ClassName=Sheet1 Member=Start Button
+Added Component: Designator=C3(*CAPMP3216X166)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "478-5168-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/12061A102KAT2A/478-5168-1-ND/1913258?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "12061A102KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/12061A102KAT2A/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(*CAPMP3216X166)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "478-5168-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/12061A102KAT2A/478-5168-1-ND/1913258?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "12061A102KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/12061A102KAT2A/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(*CAPMP3216X166)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "478-5168-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/12061A102KAT2A/478-5168-1-ND/1913258?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "12061A102KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/12061A102KAT2A/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(*LED-1206_SMD-DIODE-SWITCHING-75V-150MA(D1206)(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CD1206-S01575"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CD1206-S01575/Bourns%20-%20J.W.%20Miller/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(*LED-1206_SMD-DIODE-SWITCHING-75V-150MA(D1206)(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CD1206-S01575"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CD1206-S01575/Bourns%20-%20J.W.%20Miller/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F1(*RESC3216X125N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0ZCA0075FF2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0ZCA0075FF2G/Bel%20Fuse%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED6(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ML2R(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MM4P(MICROMATCH-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PicKit3(MICROMATCH-6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(*RESC3216X90)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRCW120635K7FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRCW120635K7FKEA/Vishay%20Dale/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(*RESC3216X90)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRCW120635K7FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRCW120635K7FKEA/Vishay%20Dale/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_2 Pin=ButtonMCLR-2
+Added Pin To Net: NetName=Net*_1 Pin=C3-1
+Added Pin To Net: NetName=Net*_2 Pin=C4-2
+Added Pin To Net: NetName=NetR9_1 Pin=C5-1
+Added Pin To Net: NetName=Net*_2 Pin=C5-2
+Added Pin To Net: NetName=NetBelden_2 Pin=D2-NEG
+Added Pin To Net: NetName=NetBelden_2 Pin=F1-1
+Added Pin To Net: NetName=Net*_2 Pin=LED6-2
+Added Pin To Net: NetName=Net*_12 Pin=MM4P-2
+Added Pin To Net: NetName=Net*_2 Pin=MM4P-3
+Added Pin To Net: NetName=Net*_13 Pin=MM4P-4
+Added Pin To Net: NetName=Net*_2 Pin=PicKit3-1
+Added Pin To Net: NetName=Net*_1 Pin=PicKit3-3
+Added Pin To Net: NetName=Net*_2 Pin=PicKit3-4
+Added Pin To Net: NetName=Net*_1 Pin=R6-1
+Added Pin To Net: NetName=Net*_1 Pin=R10-1
+Added Pin To Net: NetName=Net*_2 Pin=T1-E
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetC5_1
+Added Pin To Net: NetName=NetButtonMCLR_1 Pin=ButtonMCLR-1
+Added Pin To Net: NetName=NetButtonMCLR_1 Pin=C3-2
+Added Pin To Net: NetName=NetButtonMCLR_1 Pin=PicKit3-2
+Added Pin To Net: NetName=NetButtonMCLR_1 Pin=R6-2
+Added Pin To Net: NetName=NetButtonMCLR_1 Pin=U?-1
+Added Net: Name=NetButtonMCLR_1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-NEG
+Added Pin To Net: NetName=NetC1_1 Pin=IC?-3
+Added Pin To Net: NetName=NetC1_1 Pin=MM4P-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R8-1
+Added Pin To Net: NetName=NetC4_1 Pin=U?-21
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetD1_POS Pin=D1-POS
+Added Pin To Net: NetName=NetD1_POS Pin=F1-2
+Added Net: Name=NetD1_POS
+Added Pin To Net: NetName=NetD2_POS Pin=D2-POS
+Added Pin To Net: NetName=NetD2_POS Pin=T1-C
+Added Net: Name=NetD2_POS
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R10-2
+Added Net: Name=NetLED6_1
+Added Net: Name=NetML2R_Commun1
+Added Net: Name=NetML2R_NO1
+Added Pin To Net: NetName=NetPicKit3_5 Pin=PicKit3-5
+Added Pin To Net: NetName=NetPicKit3_5 Pin=U?-28
+Added Net: Name=NetPicKit3_5
+Added Pin To Net: NetName=NetPicKit3_6 Pin=PicKit3-6
+Added Pin To Net: NetName=NetPicKit3_6 Pin=U?-27
+Added Net: Name=NetPicKit3_6
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-17
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=T1-B
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=Sheet1 Member=Component C3 33uF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 33uF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 33uF
+Added Member To Class: ClassName=Sheet1 Member=Component D1 smd Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D2 SMD-DIODE-SWITCHING-75V-150MA(D1206)
+Added Member To Class: ClassName=Sheet1 Member=Component F1 smd Fuse
+Added Member To Class: ClassName=Sheet1 Member=Component LED6 LED1206
+Added Member To Class: ClassName=Sheet1 Member=Component ML2R Relay
+Added Member To Class: ClassName=Sheet1 Member=Component MM4P MM-4P
+Added Member To Class: ClassName=Sheet1 Member=Component PicKit3 MM-6P
+Added Member To Class: ClassName=Sheet1 Member=Component R10 1700R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1700R
+Added Member To Class: ClassName=Sheet1 Member=Component T1 TBJSOT23

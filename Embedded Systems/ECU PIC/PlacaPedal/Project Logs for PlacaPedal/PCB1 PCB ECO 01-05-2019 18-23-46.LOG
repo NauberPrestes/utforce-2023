@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=ButtonMCLR Old Footprint=DTSM32SB New Footprint=PCBComponent_1
+Change Component Footprint: Designator=Set Pedal Button Old Footprint=DTSM32SB New Footprint=PCBComponent_1
+Change Component Comment : Designator=ButtonMCLR Old Comment=DTSM-32S-B New Comment=ButtomSMD
+Change Component Comment : Designator=Set Pedal Button Old Comment=DTSM-32S-B New Comment=ButtomSMD
+Change Component Designator: OldDesignator=ButtonMCLR NewDesignator=buttomMCLR
+Change Component Designator: OldDesignator=Set Pedal Button NewDesignator=SetPedalButtom
+Change component parameters: Designator = "buttomMCLR"; Footprint = "PCBComponent_1"; UniqueID = "\QBOVVPJV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "SetPedalButtom"; Footprint = "PCBComponent_1"; UniqueID = "\VXIVLPFK"
+Change component parameters. Clean all parameters for all variants
+Change Net Name : Old Net Name=NetButtonMCLR_1 New Net Name=NetbuttomMCLR_1

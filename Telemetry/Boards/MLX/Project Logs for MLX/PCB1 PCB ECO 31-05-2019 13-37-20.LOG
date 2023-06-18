@@ -1,0 +1,9 @@
+Added Component: Designator=MLX1(Shield_MLX)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=MLX1-GND
+Added Pin To Net: NetName=NetConector - I2C_4 Pin=MLX1-SCL
+Added Pin To Net: NetName=NetConector - I2C_5 Pin=MLX1-SDA
+Added Pin To Net: NetName=+5 Pin=MLX1-VCC
+Added Net: Name=+5
+Added Member To Class: ClassName=Schematicmlx Member=Component MLX1 Shield_MLX
+Added Room: Name=Schematicmlx

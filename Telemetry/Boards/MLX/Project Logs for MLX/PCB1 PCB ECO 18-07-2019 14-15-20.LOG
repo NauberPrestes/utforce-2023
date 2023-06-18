@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Net7805_1 Pin=7805-1
+Removed Pin From Net: NetName=GND Pin=7805-2
+Removed Pin From Net: NetName=+5V Pin=7805-3
+Removed Member From Class: ClassName=Schematicmlx Member=7805
+Added Component: Designator=7805-?(7805 SMD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=7805-?-G
+Added Pin To Net: NetName=Net7805_1 Pin=7805-?-I
+Added Pin To Net: NetName=+5V Pin=7805-?-O
+Change Net Name : Old Net Name=Net7805_1 New Net Name=Net7805-?_I
+Added Member To Class: ClassName=Schematicmlx Member=Component 7805-? 7805

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetR3_1 Pin=U1-14
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-15
+Removed Pin From Net: NetName=NetR5_1 Pin=U1-16
+Added Pin To Net: NetName=NetR4_1 Pin=U1-14
+Added Pin To Net: NetName=NetR5_1 Pin=U1-15
+Added Member To Class: ClassName=Sheet1 Member=Component Relay • Ideal para uso em telecomunicações • 2 contatos reversíveis bifurcados • Comutação de cargas a partir de 10 A • Montagem direta em circuito impresso • Selado • Homologado UL• 2 contatos reversíveis bifurcados • Comutação de cargas a partir de 10 A • Montagem direta em circuito impresso • Selado • Homologado UL

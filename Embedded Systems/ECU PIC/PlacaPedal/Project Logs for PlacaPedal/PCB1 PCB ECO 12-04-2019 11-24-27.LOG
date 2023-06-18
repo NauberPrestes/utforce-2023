@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=Net*_3 Pin=U?-17
+Removed Pin From Net: NetName=Net*_5 Pin=U?-18
+Added Pin To Net: NetName=Net*_3 Pin=U?-25
+Added Pin To Net: NetName=Net*_5 Pin=U?-26
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Net: Name=NetU?_1
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Net: Name=NetU?_3
+Added Pin To Net: NetName=NetU?_4 Pin=U?-4
+Added Net: Name=NetU?_4
+Added Pin To Net: NetName=NetU?_5 Pin=U?-5
+Added Net: Name=NetU?_5
+Added Pin To Net: NetName=NetU?_8 Pin=U?-8
+Added Pin To Net: NetName=NetU?_8 Pin=U?-19
+Added Net: Name=NetU?_8
+Added Pin To Net: NetName=NetU?_11 Pin=U?-11
+Added Net: Name=NetU?_11
+Added Pin To Net: NetName=NetU?_12 Pin=U?-12
+Added Net: Name=NetU?_12
+Added Pin To Net: NetName=NetU?_13 Pin=U?-13
+Added Pin To Net: NetName=NetU?_13 Pin=U?-14
+Added Net: Name=NetU?_13
+Added Pin To Net: NetName=NetU?_15 Pin=U?-15
+Added Net: Name=NetU?_15
+Added Pin To Net: NetName=NetU?_16 Pin=U?-16
+Added Net: Name=NetU?_16

@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=Sheet1 Member=ML2R
+Added Component: Designator=?(ML2RC5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "ML2RC-5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "ML2RC5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "ML2RC5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "ML2R5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBelden_2 Pin=?-1
+Added Pin To Net: NetName=Net8PM_2 Pin=?-4
+Added Pin To Net: NetName=Net8PM_3 Pin=?-8
+Change Net Name : Old Net Name=NetBelden_2 New Net Name=Net?_1
+Added Pin To Net: NetName=Net?_16 Pin=?-16
+Added Pin To Net: NetName=Net?_16 Pin=D2-POS
+Added Pin To Net: NetName=Net?_16 Pin=T1-C
+Added Net: Name=Net?_16
+Added Member To Class: ClassName=Sheet1 Member=Component ? • Ideal para uso em telecomunicações • 2 contatos reversíveis bifurcados • Comutação de cargas a partir de 10 A • Montagem direta em circuito impresso • Selado • Homologado UL• 2 contatos reversíveis bifurcados • Comutação de cargas a partir de 10 A • Montagem direta em circuito impresso • Selado • Homologado UL

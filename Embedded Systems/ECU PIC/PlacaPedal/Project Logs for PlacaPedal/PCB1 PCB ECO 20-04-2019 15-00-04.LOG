@@ -1,0 +1,9 @@
+Added Component: Designator=8PM(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net8PM1_1 Pin=8PM-1
+Change Net Name : Old Net Name=Net8PM1_1 New Net Name=Net8PM_1
+Change Net Name : Old Net Name=Net8PM1_4 New Net Name=Net8PM_4
+Added Pin To Net: NetName=Net8PM_2 Pin=8PM-2
+Added Net: Name=Net8PM_2
+Added Net: Name=Net8PM_3
+Added Member To Class: ClassName=Sheet1 Member=Component 8PM

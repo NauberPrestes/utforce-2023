@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=LED1 NewDesignator=*
+Change Component Designator: OldDesignator=LED2 NewDesignator=*?
+Change Component Designator: OldDesignator=LED3 NewDesignator=*?
+Change Component Designator: OldDesignator=LED4 NewDesignator=*?
+Change Component Designator: OldDesignator=LED5 NewDesignator=*?
+Change Component Designator: OldDesignator=TJA1052i/5Y NewDesignator=*

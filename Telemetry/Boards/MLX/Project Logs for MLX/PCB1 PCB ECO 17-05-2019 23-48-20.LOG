@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D1 Old Footprint=C1206 New Footprint=DIODE_SOD-123FL
+Change Component Comment : Designator=D1 Old Comment=Diode New Comment=SOD123
+Change component parameters: Designator = "D1"; Footprint = "DIODE_SOD-123FL"; UniqueID = "\HEPBSWUW"
+Change component parameters. Clean all parameters for all variants
+Added Room: Name=Schematicmlx

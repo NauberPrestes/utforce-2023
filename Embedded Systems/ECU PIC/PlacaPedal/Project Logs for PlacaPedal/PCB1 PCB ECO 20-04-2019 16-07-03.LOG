@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=9PM NewDesignator=M
+Change Component Designator: OldDesignator=TJ NewDesignator=*
+Added Component: Designator=8PM1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net8PM1_1 Pin=8PM1-1
+Added Pin To Net: NetName=Net8PM1_2 Pin=8PM1-2
+Added Pin To Net: NetName=Net8PM1_3 Pin=8PM1-3
+Added Pin To Net: NetName=Net8PM1_4 Pin=8PM1-4
+Added Member To Class: ClassName=Sheet1 Member=Component 8PM1 8PMolex
+Added Member To Class: ClassName=Sheet1 Member=Component U1 PIC18F26K80-I/SS

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=diode-NEG
+Removed Pin From Net: NetName=NetD1_POS Pin=diode-POS
+Change Component Footprint: Designator=diode Old Footprint=*LED-1206_SMD-DIODE-SWITCHING-75V-150MA(D1206)(Primary) New Footprint=*SOD123FL_SMF5.0AT1G(Primary)
+Change Component Comment : Designator=F1 Old Comment=fuse New Comment=smd Fuse
+Change Component Comment : Designator=LED6 Old Comment=ON New Comment=LED1206
+Change Component Comment : Designator=LED1 Old Comment=RC0 New Comment=LED1206
+Change Component Comment : Designator=LED2 Old Comment=RC1 New Comment=LED1206
+Change Component Comment : Designator=LED3 Old Comment=RC2 New Comment=LED1206
+Change Component Comment : Designator=LED4 Old Comment=RC3 New Comment=LED1206
+Change Component Comment : Designator=LED5 Old Comment=RC4 New Comment=LED1206
+Change Component Comment : Designator=diode Old Comment=smd Diode New Comment=SMF5.0AT1G
+Change Component Designator: OldDesignator=diode NewDesignator=D?
+Change Component Designator: OldDesignator=MCLR NewDesignator=buttomMCLR
+Change Component Designator: OldDesignator=SetPedal NewDesignator=SetPedalButtom
+Change component parameters: Designator = "D?"; Footprint = "*SOD123FL_SMF5.0AT1G(Primary)"; UniqueID = "\TXTCAUBM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SMF5.0AT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOD-123 Littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SMF5.0AT1G/Littelfuse%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_POS Pin=D?-A
+Added Pin To Net: NetName=NetC1_1 Pin=D?-C
+Change Net Name : Old Net Name=NetD1_POS New Net Name=NetD?_A

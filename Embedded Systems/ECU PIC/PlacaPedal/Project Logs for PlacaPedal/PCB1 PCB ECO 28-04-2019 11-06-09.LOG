@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=Net*_1 Pin=*-11
+Removed Pin From Net: NetName=Net*_12 Pin=*-12
+Removed Pin From Net: NetName=Net*_13 Pin=*-13
+Removed Pin From Net: NetName=Net*_1 Pin=*-16
+Change Component Footprint: Designator=* Old Footprint=*SOIC127P1032X265-16N New Footprint=SOIC127P600X175-8N
+Change Component Comment : Designator=* Old Comment=Component_1 New Comment=MCP2561 Series High-Speed 1 Mbps 5 V 5 uA CAN Transceiver - SOIC-8
+Change Component Designator: OldDesignator=* NewDesignator=MCP2561
+Change component parameters: Designator = "MCP2561"; Footprint = "SOIC127P600X175-8N"; UniqueID = "\JWTAHFXW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "MCP2561-E/SN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "MCP2561-E_SN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MCP2561-E/SN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOIC127P600X175-8N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "MCP2561-E/SN"; VariantName = "[No Variations]"
+Added Component: Designator=R15(*RESC3216X90)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRCW120635K7FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRCW120635K7FKEA/Vishay%20Dale/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(*RESC3216X90)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRCW120635K7FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRCW120635K7FKEA/Vishay%20Dale/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MCP2561-2
+Added Pin To Net: NetName=Net*_1 Pin=MCP2561-3
+Added Pin To Net: NetName=Net*_12 Pin=MCP2561-6
+Added Pin To Net: NetName=Net*_13 Pin=MCP2561-7
+Added Pin To Net: NetName=GND Pin=MCP2561-8
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=Net*_1 Pin=R16-2
+Change Net Name : Old Net Name=Net*_1 New Net Name=5V
+Change Net Name : Old Net Name=Net*_12 New Net Name=NetBelden_5
+Change Net Name : Old Net Name=Net*_13 New Net Name=NetBelden_4
+Added Pin To Net: NetName=NetMCP2561_1 Pin=MCP2561-1
+Added Pin To Net: NetName=NetMCP2561_1 Pin=U1-25
+Added Net: Name=NetMCP2561_1
+Added Pin To Net: NetName=NetMCP2561_4 Pin=MCP2561-4
+Added Pin To Net: NetName=NetMCP2561_4 Pin=U1-26
+Added Net: Name=NetMCP2561_4
+Added Pin To Net: NetName=NetMCP2561_5 Pin=MCP2561-5
+Added Pin To Net: NetName=NetMCP2561_5 Pin=R15-2
+Added Pin To Net: NetName=NetMCP2561_5 Pin=R16-1
+Added Net: Name=NetMCP2561_5
+Added Member To Class: ClassName=Sheet1 Member=Component LM7805 Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component R15 CRCW120635K7FKEA
+Added Member To Class: ClassName=Sheet1 Member=Component R16 CRCW120635K7FKEA

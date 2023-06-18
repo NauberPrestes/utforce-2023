@@ -1,0 +1,12 @@
+Added Component: Designator=R17(*RESC3216X90)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRCW120635K7FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRCW120635K7FKEA/Vishay%20Dale/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net8PM1_5 Pin=R17-1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Member To Class: ClassName=Sheet1 Member=Component R17 CRCW120635K7FKEA

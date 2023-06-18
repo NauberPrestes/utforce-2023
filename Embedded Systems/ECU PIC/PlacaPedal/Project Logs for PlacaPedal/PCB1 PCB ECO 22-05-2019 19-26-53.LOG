@@ -1,0 +1,85 @@
+Change Component Comment : Designator=LED6 Old Comment=ON New Comment=LED1206
+Change Component Comment : Designator=LED1 Old Comment=RC0 New Comment=LED1206
+Change Component Comment : Designator=LED2 Old Comment=RC1 New Comment=LED1206
+Change Component Comment : Designator=LED3 Old Comment=RC2 New Comment=LED1206
+Change Component Comment : Designator=LED4 Old Comment=RC3 New Comment=LED1206
+Change Component Comment : Designator=LED5 Old Comment=RC4 New Comment=LED1206
+Change Component Designator: OldDesignator=MCLR NewDesignator=buttomMCLR
+Change Component Designator: OldDesignator=SetPedal NewDesignator=SetPedalButtom
+Change Component Description : Designator=C1 Old Description=1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor New Description=
+1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor
+
+Change Component Description : Designator=C2 Old Description=1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor New Description=
+1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor
+
+Change Component Description : Designator=C3 Old Description=1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor New Description=
+1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor
+
+Change Component Description : Designator=C4 Old Description=1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor New Description=
+1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor
+
+Change Component Description : Designator=C5 Old Description=1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor New Description=
+1206 1 nF 100 V ±10% Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor
+
+Change Component Description : Designator=R1 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R2 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R3 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R4 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R5 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R6 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R8 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R9 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R10 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R11 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R12 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R13 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R14 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R15 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R16 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Added Component: Designator=R17(*RESC3216X90)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRCW120635K7FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRCW120635K7FKEA/Vishay%20Dale/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net8PM1_5 Pin=8PM1-5
+Added Pin To Net: NetName=Net8PM1_5 Pin=R17-1
+Added Net: Name=Net8PM1_5
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U1-10
+Added Net: Name=NetR17_2
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 LED1206
+Added Member To Class: ClassName=Sheet1 Member=Component R17 CRCW120635K7FKEA

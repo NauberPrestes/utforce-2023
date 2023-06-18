@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Net*_2 Pin=IC?-1
+Removed Pin From Net: NetName=Net*_1 Pin=IC?-2
+Removed Pin From Net: NetName=NetC1_1 Pin=IC?-3
+Change Component Footprint: Designator=IC? Old Footprint=SOT229P700X180-4N New Footprint=PCBComponent_1
+Change Component Comment : Designator=IC? Old Comment=AMS1117-5.0 New Comment=Component_1
+Change Component Designator: OldDesignator=IC? NewDesignator=LM7805
+Change component parameters: Designator = "LM7805"; Footprint = "PCBComponent_1"; UniqueID = "\INDWNLOF"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_1 Pin=LM7805-5V
+Added Pin To Net: NetName=NetC1_1 Pin=LM7805-12V
+Added Pin To Net: NetName=GND Pin=LM7805-GND

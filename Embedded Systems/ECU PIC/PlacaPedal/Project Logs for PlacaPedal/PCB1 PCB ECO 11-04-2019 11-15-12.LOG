@@ -1,0 +1,49 @@
+Added Component: Designator=*(*SOIC127P1032X265-16N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(MCHP-SSOP-SS28_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "# of A/D Channels"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/39977f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "Product URL:http://www.microchip.com/datasheet/PIC18F26K80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digital Communication"; Value = "2 -A/E/USART, 0 -SPI, 1 -MSSP(SPI/I2C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EEPROM Data Memory (bytes)"; Value = "1024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/O Pins"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal Oscillator"; Value = "16 MHz, 31 kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. CPU Speed MHz"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Type"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Voltage Range"; Value = "1.8V - 5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "28-Lead Plastic Shrink Small Outline, 10.2 x 5.3 mm Body, 0.65 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SSOP-SS28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "C04-073B, 12/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "TUBE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PIC18F26K80-I/SS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Program Memory KBytes"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Program Memory KWords"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM"; Value = "3648"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PIC18F26K80-I/SS-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1823166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "76R6688"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "82T9596"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = "579-PIC18F26K80-I/SS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Timers"; Value = "2 - 8-bit, 3 - 16-bit, 0 - 32-bit"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_1 Pin=*-3
+Added Pin To Net: NetName=Net*_9 Pin=*-5
+Added Pin To Net: NetName=Net*_1 Pin=U?-17
+Added Pin To Net: NetName=Net*_9 Pin=U?-18
+Change Net Name : Old Net Name=Net*_1 New Net Name=Net*_3
+Change Net Name : Old Net Name=Net*_9 New Net Name=Net*_5
+Added Member To Class: ClassName=Sheet1 Member=Component * Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component U? PIC18F26K80-I/SS

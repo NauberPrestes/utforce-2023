@@ -1,0 +1,7 @@
+Change Component Comment : Designator=8PM Old Comment=8PM New Comment=8PMolex
+Change Component Designator: OldDesignator=8PM NewDesignator=8PM1
+Change Net Name : Old Net Name=Net8PM_1 New Net Name=Net8PM1_1
+Change Net Name : Old Net Name=Net8PM_2 New Net Name=Net8PM1_2
+Change Net Name : Old Net Name=Net8PM_4 New Net Name=Net8PM1_4
+Added Pin To Net: NetName=Net8PM1_3 Pin=?-8
+Added Net: Name=Net8PM1_3

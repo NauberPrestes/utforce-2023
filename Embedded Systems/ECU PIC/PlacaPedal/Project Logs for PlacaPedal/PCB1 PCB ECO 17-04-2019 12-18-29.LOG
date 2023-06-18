@@ -1,0 +1,156 @@
+Change Component Comment : Designator=330R Old Comment=CRCW120635K7FKEA New Comment=330R
+Change Component Comment : Designator=330R Old Comment=CRCW120635K7FKEA New Comment=330R
+Change Component Comment : Designator=330R Old Comment=CRCW120635K7FKEA New Comment=330R
+Change Component Comment : Designator=330R Old Comment=CRCW120635K7FKEA New Comment=330R
+Change Component Comment : Designator=330R Old Comment=CRCW120635K7FKEA New Comment=330R
+Change Component Comment : Designator=1700R Old Comment=CRCW120635K7FKEA New Comment=1700R
+Change Component Comment : Designator=1700R Old Comment=CRCW120635K7FKEA New Comment=1700R
+Change Component Comment : Designator=1700R Old Comment=CRCW120635K7FKEA New Comment=1700R
+Change Component Designator: OldDesignator=330R NewDesignator=R1
+Change Component Designator: OldDesignator=330R NewDesignator=R2
+Change Component Designator: OldDesignator=330R NewDesignator=R3
+Change Component Designator: OldDesignator=330R NewDesignator=R4
+Change Component Designator: OldDesignator=330R NewDesignator=R5
+Change Component Designator: OldDesignator=1700R NewDesignator=R6
+Change Component Designator: OldDesignator=1700R NewDesignator=R8
+Change Component Designator: OldDesignator=1700R NewDesignator=R9
+Change Component Description : Designator=R5 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R4 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R3 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R2 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R1 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R9 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R8 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Change Component Description : Designator=R6 Old Description=CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor New Description=
+CRCW Series 1206 0.25 W 35.7 kOhm ±1 % ±100 ppm/K SMT Thick Film Chip Resistor
+ 
+Added Component: Designator=X?(MICROMATCH-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MICROMATCH-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_2"; Value = "-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_3"; Value = "-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_4"; Value = "-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "con-amp-micromatch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "7-215464-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_FARNELL"; Value = "3784629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_NEWARK"; Value = "19R8124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MICROMATCH-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_2"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_3"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_4"; Value = "M"; VariantName = "[No Variations]"
+Added Component: Designator=X?(MICROMATCH-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MICROMATCH-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_2"; Value = "-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_3"; Value = "-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_4"; Value = "-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "con-amp-micromatch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "7-215464-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_FARNELL"; Value = "3784629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_NEWARK"; Value = "19R8124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MICROMATCH-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_2"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_3"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_4"; Value = "M"; VariantName = "[No Variations]"
+Added Component: Designator=X?(MICROMATCH-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MICROMATCH-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_2"; Value = "-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_3"; Value = "-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_4"; Value = "-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "con-amp-micromatch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "7-215464-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_FARNELL"; Value = "3784629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_NEWARK"; Value = "19R8124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MICROMATCH-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_2"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_3"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_4"; Value = "M"; VariantName = "[No Variations]"
+Added Component: Designator=X?(MICROMATCH-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MICROMATCH-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_2"; Value = "-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_3"; Value = "-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_4"; Value = "-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "con-amp-micromatch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "7-215464-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_FARNELL"; Value = "3784629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_NEWARK"; Value = "19R8124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MICROMATCH-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_2"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_3"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_4"; Value = "M"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_12 Pin=X?-2
+Added Pin To Net: NetName=Net*_2 Pin=X?-3
+Added Pin To Net: NetName=Net*_13 Pin=X?-4
+Change Net Name : Old Net Name=Net330R_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=Net1700R_1 New Net Name=NetR9_1
+Added Pin To Net: NetName=NetButtonMCLR_2 Pin=ButtonMCLR-2
+Added Pin To Net: NetName=NetButtonMCLR_2 Pin=R6-1
+Added Pin To Net: NetName=NetButtonMCLR_2 Pin=U?-1
+Added Net: Name=NetButtonMCLR_2
+Added Pin To Net: NetName=NetC1_1 Pin=IC?-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U?-12
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U?-13
+Added Pin To Net: NetName=NetR3_1 Pin=U?-14
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U?-15
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U?-16
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=Start Button-2
+Added Pin To Net: NetName=NetR8_1 Pin=U?-21
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetX?_1 Pin=X?-1
+Added Net: Name=NetX?_1
+Added Member To Class: ClassName=Sheet1 Member=Component *? LED1206
+Added Member To Class: ClassName=Sheet1 Member=Component *? LED1206
+Added Member To Class: ClassName=Sheet1 Member=Component *? LED1206
+Added Member To Class: ClassName=Sheet1 Member=Component * Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component R2 330R
+Added Member To Class: ClassName=Sheet1 Member=Component R3 330R
+Added Member To Class: ClassName=Sheet1 Member=Component R4 330R
+Added Member To Class: ClassName=Sheet1 Member=Component R5 330R
+Added Member To Class: ClassName=Sheet1 Member=Component R6 1700R
+Added Member To Class: ClassName=Sheet1 Member=Component R8 1700R
+Added Member To Class: ClassName=Sheet1 Member=Component X? MicroMaTch 4  7-215464-4 / 0-215464-4Drawing Number C-215464DDEController.pdf
+Added Member To Class: ClassName=Sheet1 Member=Component X? MicroMaTch 4  7-215464-4 / 0-215464-4Drawing Number C-215464DDEController.pdf
+Added Member To Class: ClassName=Sheet1 Member=Component X? MicroMaTch 4  7-215464-4 / 0-215464-4Drawing Number C-215464DDEController.pdf
+Added Member To Class: ClassName=Sheet1 Member=Component X? MicroMaTch 4  7-215464-4 / 0-215464-4Drawing Number C-215464DDEController.pdf
